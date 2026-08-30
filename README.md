@@ -14,8 +14,10 @@ O ciclo de vida da aplicação é gerenciado através de frameworks ágeis, gara
 
 *   **Board Kanban (GitHub Projects):** [INSERIR LINK AQUI]
     Mapeamento do fluxo de valor, controle de Sprints, gestão de Backlog e rastreamento de tarefas em progresso (WIP) e Code Review.
-*   **Product Requirements Document (PRD):** [INSERIR LINK AQUI]
+*   **Product Requirements Document (PRD):** [docs/visao-do-produto.md](docs/visao-do-produto.md)
     Documentação detalhada de escopo, requisitos funcionais e não-funcionais, público-alvo e regras de negócio.
+*   **Roadmap e Épicos Ágeis:** [docs/roadmap-epicos.md](docs/roadmap-epicos.md)
+    Mapeamento do ciclo de vida de desenvolvimento do projeto, dividido em Épicos funcionais e arquiteturais.
 *   **Gestão de Mudanças:** 
     Adoção estrita da especificação **Conventional Commits** (`feat`, `fix`, `chore`, `refactor`, `docs`). O histórico de versionamento atua como trilha de auditoria, vinculando diretamente as alterações no código às respectivas *Issues* de governança.
 
