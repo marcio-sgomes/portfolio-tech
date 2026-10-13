@@ -8,6 +8,19 @@ Este repositório documenta o desenvolvimento do portfólio interativo de Márci
 
 A documentação presente neste repositório reflete estritamente a realidade arquitetural, o código-fonte, as diretrizes de design e a infraestrutura implementada.
 
+### Como este repositório se relaciona com o código
+
+O portfólio é dividido em **dois repositórios complementares**:
+
+| Repositório | Papel | Conteúdo |
+|---|---|---|
+| **portfolio-tech** (este) | Planejamento e documentação de produto | README de arquitetura, [PRD](docs/visao-do-produto.md), [Roadmap de Épicos](docs/roadmap-epicos.md) e as issues de UI/UX (design no Figma) — Épicos 1 e 2. |
+| **[portfolio-marcio-gomes](https://github.com/marcio-sgomes/portfolio-marcio-gomes)** | Implementação | Aplicação React + Vite, testes (Vitest), CI (GitHub Actions) e deploy na Vercel — corresponde aos Épicos 3, 4 e 5, executados em três sprints. |
+
+Este repositório **não contém código**: para rodar o projeto, siga o README do [portfolio-marcio-gomes](https://github.com/marcio-sgomes/portfolio-marcio-gomes#como-rodar).
+
+> **Diferenças conhecidas entre o planejado e o implementado (out/2026):** o PRD prevê uma página única com Hero, Formação, Cases e Footer; a versão publicada tem a listagem automática de projetos via API do GitHub e a página "Sobre". O Prettier citado abaixo ainda não foi configurado (apenas ESLint), e a branch `main` ainda não tem proteção ativa. Essas lacunas estão registradas como issues no repositório de código.
+
 ---
 
 ## 2. Governança e Gestão do Projeto
