@@ -1,6 +1,7 @@
 # PORTFOLIO-TECH | MÁRCIO DOS SANTOS GOMES
 
-**Ambiente de Produção:** [INSERIR LINK DA VERCEL AQUI]
+**Ambiente de Produção:** <https://portfolio-marcio-gomes.vercel.app>  
+**Código-fonte da aplicação:** [marcio-sgomes/portfolio-marcio-gomes](https://github.com/marcio-sgomes/portfolio-marcio-gomes)
 
 ## 1. Resumo Executivo
 Este repositório documenta o desenvolvimento do portfólio interativo de Márcio dos Santos Gomes. Concebido sob a premissa de um "Meta-Portfólio", a própria construção desta aplicação atua como o produto central. O objetivo primário é tangibilizar competências avançadas em Engenharia de Software e Gestão de Projetos, conectando a base acadêmica em Análise e Desenvolvimento de Sistemas com a especialização em Gestão Ágil de Projetos.
@@ -12,7 +13,7 @@ A documentação presente neste repositório reflete estritamente a realidade ar
 ## 2. Governança e Gestão do Projeto
 O ciclo de vida da aplicação é gerenciado através de frameworks ágeis, garantindo previsibilidade, rastreabilidade técnica e alinhamento contínuo com os objetivos do produto.
 
-*   **Board Kanban (GitHub Projects):** [INSERIR LINK AQUI]
+*   **Board Kanban (GitHub Projects):** [Planejamento (portfolio-tech)](https://github.com/users/marcio-sgomes/projects/16) · [Desenvolvimento (portfolio-marcio-gomes)](https://github.com/users/marcio-sgomes/projects/17) — ⚠️ *quadros atualmente privados; visíveis apenas ao dono até serem tornados públicos.*
     Mapeamento do fluxo de valor, controle de Sprints, gestão de Backlog e rastreamento de tarefas em progresso (WIP) e Code Review.
 *   **Product Requirements Document (PRD):** [docs/visao-do-produto.md](docs/visao-do-produto.md)
     Documentação detalhada de escopo, requisitos funcionais e não-funcionais, público-alvo e regras de negócio.
@@ -51,7 +52,7 @@ A esteira de integração e entrega contínuas foi desenhada para garantir estab
 ## 5. UI/UX e Design System
 A interface do usuário foi previamente especificada e homologada, garantindo consistência visual e eficiência no desenvolvimento front-end.
 
-*   **Especificação Visual (Figma):** [INSERIR LINK AQUI]
+*   **Especificação Visual (Figma):** ⏳ *Pendente — link do arquivo Figma ainda não publicado (os componentes foram desenhados nas issues #4 a #8).*
 *   **Design Tokens:**
     Centralização de variáveis CSS globais baseadas em uma paleta corporativa estrita (Azul Marinho, Cinza Chumbo, Branco e Grafite) e hierarquia tipográfica de alta legibilidade (Inter/Roboto).
 *   **Componentização:**
